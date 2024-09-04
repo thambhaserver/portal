@@ -4,10 +4,10 @@
 #DATE:- Wednesday 4th of September 2024 10:27:43 AM
 
 
-#EXTINF:-1 tvg-id="auto http://tv.cloudcdn.me:80/live.ts?channelId=49859&uid=4246&deviceMac=00:1A:79:99:EC:D3__;" tvg-logo="https://i.ibb.co/KF0mXfh/DOCTOR-STRANGE-FULL.png__;!!ASp95G87aa5DoyK5mB3l!-MMydwwMebHqBaNhwST0lDv17ACLW_yo_Z-Rh2oZdU21s5MgGcag3RpYrRcWD7V975MgwCYrWslG-kqBJA$ " group-title="INDIAN",IN: & Flix FHD
+#EXTINF:-1 tvg-id="auto http://tv.cloudcdn.me:80/live.ts?channelId=49859&uid=4246&deviceMac=00:1A:79:99:EC:D3;" tvg-logo="https://i.ibb.co/KF0mXfh/DOCTOR-STRANGE-FULL.png " group-title="INDIAN",IN: & Flix FHD
 http://tv.cloudcdn.me:80/live.ts?channelId=49859&uid=4246&deviceMac=00:1A:79:99:EC:D3
 
-#EXTINF:-1 tvg-id="auto http://tv.cloudcdn.me:80/live.ts?channelId=139&uid=4246&deviceMac=00:1A:79:99:EC:D3__;!!ASp95G87aa5DoyK5mB3l!-MMydwwMebHqBaNhwST0lDv17ACLW_yo_Z-Rh2oZdU21s5MgGcag3RpYrRcWD7V975MgwCYrWsnFuXx3rQ$ " tvg-logo="https://i.ibb.co/KF0mXfh/DOCTOR-STRANGE-FULL.png__;!!ASp95G87aa5DoyK5mB3l!-MMydwwMebHqBaNhwST0lDv17ACLW_yo_Z-Rh2oZdU21s5MgGcag3RpYrRcWD7V975MgwCYrWslG-kqBJA$ " group-title="INDIAN",IN: & Pictures FHD
+#EXTINF:-1 tvg-id="auto http://tv.cloudcdn.me:80/live.ts?channelId=139&uid=4246&deviceMac=00:1A:79:99:EC:D3 " tvg-logo="https://i.ibb.co/KF0mXfh/DOCTOR-STRANGE-FULL.png " group-title="INDIAN",IN: & Pictures FHD
 http://tv.cloudcdn.me:80/live.ts?channelId=139&uid=4246&deviceMac=00:1A:79:99:EC:D3__;!!ASp95G87aa5DoyK5mB3l!-MMydwwMebHqBaNhwST0lDv17ACLW_yo_Z-Rh2oZdU21s5MgGcag3RpYrRcWD7V975MgwCYrWsnFuXx3rQ$ 
 
 #EXTINF:-1 tvg-id="auto http://tv.cloudcdn.me:80/live.ts?channelId=132225&uid=4246&deviceMac=00:1A:79:99:EC:D3__;!!ASp95G87aa5DoyK5mB3l!-MMydwwMebHqBaNhwST0lDv17ACLW_yo_Z-Rh2oZdU21s5MgGcag3RpYrRcWD7V975MgwCYrWsnsj3Uxgw$ " tvg-logo="https://i.ibb.co/KF0mXfh/DOCTOR-STRANGE-FULL.png__;!!ASp95G87aa5DoyK5mB3l!-MMydwwMebHqBaNhwST0lDv17ACLW_yo_Z-Rh2oZdU21s5MgGcag3RpYrRcWD7V975MgwCYrWslG-kqBJA$ " group-title="INDIAN",IN: & Pictures SD
